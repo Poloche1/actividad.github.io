@@ -1,0 +1,41 @@
+{
+  "squadName" : "Juan Poloche ",
+  "Bogotacy" : "Bogota",
+  "Año" : 2000,
+  "Base secreta" : "Super Bogota", 
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Poloche Man",
+      "Edad" : 22,
+      "Identidad" : "Incognito",
+      "poderes" : [
+        "Volar",
+        "Saltar super alto ",
+        "resistente a la Radiacion"
+      ]
+    },
+    {
+      "name" : "Hombre Veloz",
+      "Edad" : 39,
+      "Identidad" : "Wilson Ortiz ",
+      "poderes" : [
+        "mas veloz que la luz",
+        "viajar en el tiempo por 2 minutos ",
+        "reflejos Rapidos"
+      ]
+    },
+    {
+      "name" : "Flama Eterna",
+      "Edad" : 100,
+      "Identidad" : "Mujer",
+      "poderes" : [
+        "Inmortabilidad",
+        "Inmune a Humanos",
+        "Inferno",
+        "Teletrasportacion",
+        "Viajero de Mundos "
+      ]
+    }
+  ]
+}
